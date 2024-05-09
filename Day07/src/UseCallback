@@ -1,0 +1,15 @@
+// import {useRef,useState,useMemo,useCallback} from "react";
+
+// export default function useCallback(){
+//     const nextId = useCallback(4);
+//     const onChange = useCallback((e)=>{
+//     //     const {name,value} = e.target;
+//     //     setInputs({
+//     //         ...inputs,
+//     //         {name:value});
+
+//     //     },
+//     //     [inputs]);
+//     //     const.onChange=()=>{}
+//     // })
+// }
